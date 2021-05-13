@@ -1,0 +1,328 @@
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\App.xbf
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.xr.xml
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.exe
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.pdb
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\resources.pri
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\AppxManifest.xml
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Core\HearthStone Card Displayer - Classic.exe
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.build.appxrecipe
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\System.Runtime.dll
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.g.i.cs
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.g.cs
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.xaml
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.xbf
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.csproj.CopyComplete
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.exe
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.pdb
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\priconfig.xml
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\resources.resfiles
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\pri.resfiles
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\qualifiers.txt
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424923200000000.json
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\StartPage.xbf
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.g.i.cs
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.g.cs
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.xaml
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.xbf
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\MainPage.xbf
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.g.cs
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.xaml
+C:\Users\abdul\Desktop\Semester 4\Windows C#\Final Project\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.g.i.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.g.i.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.g.i.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.g.i.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.xaml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.xaml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.xaml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.xaml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.exe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.pdb
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\App.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\AboutPage.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\MainPage.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\StartPage.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.xr.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.exe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.pdb
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\resources.pri
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\AppxManifest.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Core\AppxManifest.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Core\HearthStone Card Displayer - Classic.exe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.build.appxrecipe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Newtonsoft.Json.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\System.Runtime.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.csproj.CoreCompileInputs.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.csproj.CopyComplete
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\ResourceHandlingTask.state
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\priconfig.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\priconfig.xml.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\filtered.layout.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\excluded.layout.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\resources.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\resources.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\pri.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\pri.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\qualifiers.txt
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\ProjectArchitectures.txt
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112750540000000.json
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\FinalProjectApp\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.csprojAssemblyReference.cache
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.g.i.cs
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.g.cs
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.g.i.cs
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.g.cs
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.g.i.cs
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.g.cs
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.g.i.cs
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.g.cs
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.xaml
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.xaml
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.xaml
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.xaml
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.xbf
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.xbf
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.xbf
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.xbf
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\App.xbf
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\AboutPage.xbf
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\MainPage.xbf
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\StartPage.xbf
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.xr.xml
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.exe
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.pdb
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\resources.pri
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\AppxManifest.xml
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Core\AppxManifest.xml
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Core\HearthStone Card Displayer - Classic.exe
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.build.appxrecipe
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Newtonsoft.Json.dll
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\System.Runtime.dll
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.csproj.CoreCompileInputs.cache
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.csproj.CopyComplete
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.exe
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.pdb
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\ResourceHandlingTask.state
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\priconfig.xml
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\priconfig.xml.intermediate
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\filtered.layout.resfiles
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\excluded.layout.resfiles
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\resources.resfiles
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\resources.resfiles.intermediate
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\pri.resfiles
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\pri.resfiles.intermediate
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\qualifiers.txt
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\ProjectArchitectures.txt
+D:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112714540000000.json
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\App.xbf
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\AboutPage.xbf
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\MainPage.xbf
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\StartPage.xbf
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.xr.xml
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.exe
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.pdb
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\resources.pri
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\AppxManifest.xml
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Core\AppxManifest.xml
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Core\HearthStone Card Displayer - Classic.exe
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.build.appxrecipe
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Newtonsoft.Json.dll
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\System.Runtime.dll
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.g.i.cs
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.g.cs
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.g.i.cs
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.g.cs
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.g.i.cs
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.g.cs
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.g.i.cs
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.g.cs
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.xaml
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.xaml
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.xaml
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.xaml
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.xbf
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.xbf
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.xbf
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.xbf
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\XamlSaveStateFile.xml
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.csproj.CoreCompileInputs.cache
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.csproj.CopyComplete
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.exe
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.pdb
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\ResourceHandlingTask.state
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\priconfig.xml
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\priconfig.xml.intermediate
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\unfiltered.layout.resfiles
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\filtered.layout.resfiles
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\filtered.layout.resfiles.intermediate
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\excluded.layout.resfiles
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\excluded.layout.resfiles.intermediate
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\resources.resfiles
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\resources.resfiles.intermediate
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\pri.resfiles
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\pri.resfiles.intermediate
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\qualifiers.txt
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\qualifiers.txt.intermediate
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\ProjectArchitectures.txt
+F:\Year 2\Semester 2\__[C#] Win Prog\FinalProject\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424923200000000.json
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.g.i.cs
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.g.cs
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.g.i.cs
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.g.cs
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.g.cs
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.g.i.cs
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.g.cs
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.xaml
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.xaml
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.xaml
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.xaml
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.xbf
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.xbf
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.xbf
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.xbf
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\App.xbf
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\AboutPage.xbf
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\MainPage.xbf
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\StartPage.xbf
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.xr.xml
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.exe
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.pdb
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\resources.pri
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\AppxManifest.xml
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Core\HearthStone Card Displayer - Classic.exe
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.build.appxrecipe
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\System.Runtime.dll
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.csproj.CopyComplete
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.exe
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.pdb
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\priconfig.xml
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\resources.resfiles
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\pri.resfiles
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\qualifiers.txt
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\abdul\Desktop\Semester 4\Windows C#\CSharpFinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424923200000000.json
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\App.xbf
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\AboutPage.xbf
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\MainPage.xbf
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\StartPage.xbf
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.xr.xml
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.exe
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.pdb
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\resources.pri
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\AppxManifest.xml
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Core\AppxManifest.xml
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Core\HearthStone Card Displayer - Classic.exe
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\HearthStone Card Displayer - Classic.build.appxrecipe
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Newtonsoft.Json.dll
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\System.Runtime.dll
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.csprojAssemblyReference.cache
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.g.i.cs
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.g.cs
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.g.i.cs
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.g.cs
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.g.i.cs
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.g.cs
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.g.i.cs
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.g.cs
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\XamlTypeInfo.g.cs
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.xaml
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.xaml
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.xaml
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.xaml
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\App.xbf
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\AboutPage.xbf
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\StartPage.xbf
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MainPage.xbf
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\XamlSaveStateFile.xml
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.csproj.CoreCompileInputs.cache
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.csproj.CopyComplete
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.exe
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\HearthStone Card Displayer - Classic.pdb
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\ResourceHandlingTask.state
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\priconfig.xml
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\priconfig.xml.intermediate
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\unfiltered.layout.resfiles
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\filtered.layout.resfiles
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\filtered.layout.resfiles.intermediate
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\excluded.layout.resfiles
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\excluded.layout.resfiles.intermediate
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\resources.resfiles
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\resources.resfiles.intermediate
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\pri.resfiles
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\pri.resfiles.intermediate
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\qualifiers.txt
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\qualifiers.txt.intermediate
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\ProjectArchitectures.txt
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424923200000000.json
+G:\PROG2500C#\FinalProject\HearthStone Card Displayer - Classic\HearthStone Card Displayer - Classic\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json
